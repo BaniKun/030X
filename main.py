@@ -1,1 +1,3 @@
-# This is an example script
+# Exercise 6
+
+print("Hello, World!")
